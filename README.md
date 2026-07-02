@@ -57,7 +57,7 @@ Create an interactive sales dashboard using Tableau to visualize sales data and 
 
 ## Author
 
-**Srivant M
+**Srivant M**
 
 ---
 
